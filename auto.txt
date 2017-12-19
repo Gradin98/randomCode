@@ -1,0 +1,6 @@
+Marca: marca1 Model: model1 Putere:13 Tonaj:123.0 TipCamion: tir
+Marca: marca2 Model: model2 Putere:1234 Tonaj:124.0 TipCamion: tir
+Marca: marca3 Model: model3 Putere:523 Tonaj:123.0 TipCamion: tir
+Marca: marca1 Model: model1 Putere:5123 Tonaj:1223.0 TipCamion: basculanta
+Marca: marca2 Model: model2 Putere:5123 Tonaj:123.0 TipCamion: basculanta
+Marca: marca3 Model: model3 Putere:15123 Tonaj:11234.0 TipCamion: basculanta
